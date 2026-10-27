@@ -1,0 +1,10 @@
+FILE TREE REPORT
+------------------------------
+Name: file1.txt
+Size: 10 bytes
+Modified: 2026-10-27T10:03:43.783Z
+------------------------------
+Name: file2.txt
+Size: 11 bytes
+Modified: 2026-10-27T10:03:43.787Z
+------------------------------
